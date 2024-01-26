@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/newreact/static/css/main.0595470a.css",
+    "main.js": "/newreact/static/js/main.e369eb3b.js",
+    "static/js/787.d4aba7ab.chunk.js": "/newreact/static/js/787.d4aba7ab.chunk.js",
+    "static/media/img1.jpeg": "/newreact/static/media/img1.9ac21d585cd0e63da7f2.jpeg",
+    "static/media/skill.jpg": "/newreact/static/media/skill.ce9eb0077ea26e5910d0.jpg",
+    "index.html": "/newreact/index.html",
+    "main.0595470a.css.map": "/newreact/static/css/main.0595470a.css.map",
+    "main.e369eb3b.js.map": "/newreact/static/js/main.e369eb3b.js.map",
+    "787.d4aba7ab.chunk.js.map": "/newreact/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0595470a.css",
+    "static/js/main.e369eb3b.js"
+  ]
+}
